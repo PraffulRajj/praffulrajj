@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prafful Raj</h1>
-<h3 align="center">A passionate developer, open-source enthusiast, and lifelong learner.</h3>
+<h3 align="center">A passionate Full Stack Developer | Cloud Learner | Lifelong Explorer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PraffulRajj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,57 +9,68 @@
 
 ## 🚀 About Me
 
-- 💻 I love building cool products with code, exploring new technologies, and collaborating on open-source projects.
-- 🌱 Currently learning: **Cloud Computing, DevOps, and AI/ML.**
-- 🎯 Goals for 2025: **Contribute to major open-source projects, grow my developer network, and share more with the community.**
-- 📝 I occasionally write articles on [your-blog-or-medium-link-here](#) <!-- Replace with your blog link -->
-- ⚡ Fun fact: I believe in “code, coffee, and collaboration.”
+- 💻 Building real-world products with **MERN Stack**  
+- ☁️ Exploring **Cloud Computing** on **AWS** & **GCP**  
+- 📚 Currently learning: **DevOps | System Design | DSA**  
+- 🎯 2025 Goal: **Land an SDE role at a top tech company like Apple**  
+- ⚡ Fun fact: I believe in **"Code. Coffee. Cloud. Repeat."**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <!-- Add more icons as needed -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraffulRajj&show_icons=true&theme=github_dark" alt="PraffulRajj's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraffulRajj&theme=github-dark-blue" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraffulRajj&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraffulRajj&theme=github-dark-blue&hide_border=true" height="160" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffulRajj&layout=compact&theme=github_dark" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraffulRajj&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
-## 🌟 Notable Projects
+## 🌟 Featured Projects
 
-- [Project 1](#) - _Short project description_
-- [Project 2](#) - _Short project description_
-- [Project 3](#) - _Short project description_
-<!-- Add your top/open-source projects here -->
+- 🔗 [**SkillLinker**](https://github.com/PraffulRajj/SkillLinker) – A smart platform to connect learners and mentors by skill.
+- 🌐 [**Portfolio Website**](https://github.com/PraffulRajj/Portfolio) – My responsive developer portfolio built using React + Tailwind.
+- ☁️ Coming Soon: **Cloud-based Quiz & Notes App** – My NTCC project (under dev)
 
 ---
 
-## 🔗 Connect with Me
+## ✨ Highlights
 
-<p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Add more links as needed -->
+- 📌 Learning MERN + DSA (Sigma Batch @ Apna College)
+- ☁️ Hands-on with Azure & Google Cloud via free tier labs
+- 👨‍💻 Daily GitHub commits to improve consistency
+- 🔍 Interested in Web + Cloud + DevOps + Open Source
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/praffulraj" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:praffulraj0@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -68,9 +79,9 @@
 <summary>📚 <b>Fun & Extra</b></summary>
 <br>
 <ul>
-  <li>🎧 Music fuels my coding sessions.</li>
-  <li>🌍 I love connecting with like-minded devs worldwide—let's collaborate!</li>
-  <li>🏆 Always open to learning something new!</li>
+  <li>🎧 Music fuels my coding marathons 🎵</li>
+  <li>🧠 Love solving problems & cracking LeetCode with chai ☕</li>
+  <li>🌍 Open to collaborations, internships & dev meetups</li>
 </ul>
 </details>
 
@@ -78,4 +89,4 @@
 
 <p align="center">
   <img src="https://github.com/PraffulRajj/PraffulRajj/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p>  
