@@ -12,7 +12,7 @@
 - 💻 Building real-world products with **MERN Stack**  
 - ☁️ Exploring **Cloud Computing** on **AWS** & **GCP**  
 - 📚 Currently learning: **DevOps | System Design | DSA**  
-- 🎯 2027 Goal: **Land an SDE role at a top tech company like Apple**  
+- 🎯 2027 Goal: **Land an SDE role at a top tech company's.**  
 - ⚡ Fun fact: I believe in **"Code. Coffee. Cloud. Repeat."**
 
 ---
