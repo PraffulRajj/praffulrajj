@@ -48,7 +48,7 @@
 ## 🌟 Featured Projects
 
 - 🔗 [**SkillLinker**](https://github.com/PraffulRajj/SkillLinker) – A smart platform to connect learners and mentors by skill.
-- 🔗 [**CampusCatalysts**](https://github.com/PraffulRajj/Campus-Catalysts) – CampusCatalysts is a smart web platform designed to simplify campus life by helping students connect for projects, share study resources, receive announcements, and collaborate easily—all in one place.
+- 🔗 [**CampusCatalysts**](https://github.com/PraffulRajj/Campus_Catalyst) – CampusCatalysts is a smart web platform designed to simplify campus life by helping students connect for projects, share study resources, receive announcements, and collaborate easily—all in one place.
 - 🌐 [**Portfolio Website**](https://github.com/PraffulRajj/Portfolio) – My responsive developer portfolio built using React + Tailwind.
 - ☁️ Coming Soon: **Cloud-based Quiz & Notes App** – My NTCC project (under dev)
 
